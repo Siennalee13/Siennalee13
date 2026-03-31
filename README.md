@@ -46,7 +46,7 @@ I specialize in combining **psychometrics, data science, AI, and statistics** to
 
 ## 📫 Contact
 
-- LinkedIn: (add later)
+- LinkedIn: (www.linkedin.com/in/sienna-lee-soo-ph-d-pmp-74996a49)
 - Email: (siennava1013@gmail.com)
 
 ---
