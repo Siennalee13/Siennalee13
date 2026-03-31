@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Sienna Lee, Ph.D.
 
-<!--
-**Siennalee13/Siennalee13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Psychometrician | Data Scientist | Statistician | AI & Measurement Specialist | Research Scientist 
+📍 Washington, DC  
 
-Here are some ideas to get you started:
+I specialize in combining **psychometrics, data science, AI, and statistics** to build fair, scalable, and interpretable measurement systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I Do
+
+- Design and evaluate large-scale assessments (e.g.,NAEP)
+- Apply IRT, MIRT, DIF/DTF for fairness and validity
+- Build data pipelines (Python, SQL, APIs, web scraping)
+- Develop machine learning models with a focus on **interpretability and bias**
+- Translate analytics into **policy and decision-making insights**
+
+---
+
+## 🧠 Current Focus
+
+- Responsible AI in measurement systems
+- Algorithmic fairness frameworks (Upstream / Downstream Index)
+- Human-AI collaboration in education and healthcare
+
+---
+
+## 🛠️ Tools & Skills
+
+**Languages:** Python, R, SQL  
+**Data:** pandas, NumPy, tidyverse  
+**Modeling:** scikit-learn, statsmodels, IRT (R packages)  
+**Visualization:** Plotly, ggplot2  
+**Other:** APIs, web scraping, ETL pipelines  
+
+---
+
+## 📂 Featured Projects
+
+🔹 [Psychometric Analysis: DIF Detection in MIRT Models](#)  
+🔹 [Data Pipeline: Multi-source Data Integration (APIs + JSON + CSV)](#)  
+🔹 [Machine Learning: Predicting Outcomes with Interpretability](#)  
+🔹 [Responsible AI: Fairness Audit Framework](#)  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (add later)
+- Email: (siennava1013@gmail.com)
+
+---
+
+⭐ *I’m passionate about building data systems that are not just accurate—but fair, transparent, and impactful.*
